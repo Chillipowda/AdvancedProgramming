@@ -1,6 +1,5 @@
 #include "Square.h"
 #include <iostream>
-
 Square::Square(int x, int y, int e) : Shape(x,y)
 {
 	//set edge in scope so calculateArea etc. can use it in calculations then call calculations to build the shape
