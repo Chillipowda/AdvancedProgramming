@@ -1,13 +1,2 @@
 ﻿  Driver.cpp
-  Circle.cpp
-  Movable.cpp
-  Point.cpp
-  Rectangle.cpp
-C:\Users\computing\Desktop\A1AdvProg\A1AdvProg\Circle.cpp(40,18): warning C4244:  '*=': conversion from 'float' to 'int', possible loss of data
-C:\Users\computing\Desktop\A1AdvProg\A1AdvProg\Rectangle.cpp(46,17): warning C4244:  '*=': conversion from 'float' to 'int', possible loss of data
-  Shape.cpp
-  Square.cpp
-C:\Users\computing\Desktop\A1AdvProg\A1AdvProg\Rectangle.cpp(47,18): warning C4244:  '*=': conversion from 'float' to 'int', possible loss of data
-  Generating Code...
-C:\Users\computing\Desktop\A1AdvProg\A1AdvProg\Square.cpp(43,16): warning C4244:  '*=': conversion from 'float' to 'int', possible loss of data
-  A1AdvProg.vcxproj -> C:\Users\computing\Desktop\A1AdvProg\x64\Debug\A1AdvProg.exe
+  A1AdvProg.vcxproj -> C:\Users\kiera\Desktop\A1AdvProg\x64\Debug\A1AdvProg.exe

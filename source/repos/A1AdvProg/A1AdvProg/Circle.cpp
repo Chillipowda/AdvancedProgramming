@@ -1,6 +1,7 @@
 #include "Circle.h"
 #include<string>
 #include <iostream>
+#include <vector>
 Circle::Circle(int x, int y, int radius) : Shape(x,y) {
 	//set radius in scope so that the value is not lost outside of these {} and can be used in calculateArea etc.
 	this->radius = radius;
